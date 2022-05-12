@@ -1,0 +1,1 @@
+.\Python310\Python.exe DoTeX.py

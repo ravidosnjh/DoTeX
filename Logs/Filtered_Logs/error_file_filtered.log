@@ -1,0 +1,29 @@
+Compile failed for error_file.tex!
+The following errors were retrieved from error_file.log.
+The complete log can be found in the Logs Folder
+
+
+Error 1: ./error_file.tex:14: Undefined control sequence.
+<recently read> \usepakage 
+                           
+At line 14:  \usepakage
+               [colorlinks=true, allcolors=blue]{hyperref}
+The control sequence at the end of the top line
+of your error message was never \def'ed. 
+
+
+Error 2: ./error_file.tex:14: LaTeX Error: Missing \begin{document}.
+
+
+Error 3: ./error_file.tex:30: Undefined control sequence.
+At line 30:  \secton
+            {Examples}
+The control sequence at the end of the top line
+of your error message was never \def'ed. 
+
+
+Error 4: ./error_file.tex:36: Undefined control sequence.
+At line 36:  \[ \frc
+            {3}{2} \]
+The control sequence at the end of the top line
+of your error message was never \def'ed. 
